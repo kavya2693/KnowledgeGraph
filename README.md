@@ -10,3 +10,7 @@ For instance, we could use Neo4j’s Cypher query language to answer a question 
 
 In practice, Neo4j’s graph database model is built to handle these dynamic relationships efficiently, and Py2neo, a Python library for Neo4j, integrates seamlessly with Python. This lets you retrieve and analyze your campaign data programmatically, linking customer nodes to content types and tracking metrics like conversion rates, engagement scores, and customer touchpoints in a single, cohesive view. Queries are simpler, insights are clearer, and you’re no longer bound by the static nature of traditional tables. With a knowledge graph, data becomes an evolving story, revealing how specific content drives meaningful, time-bound engagement.
 
+In this blog, I want to explore airbnb dataset and develope the below knowledge graph. The below is architecture diagram
+![image](https://github.com/user-attachments/assets/6ff618af-601a-4cf1-9aac-4b671741f613)
+
+
